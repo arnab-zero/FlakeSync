@@ -1,0 +1,14 @@
+train_embeddings.pt
+flakyXbert_augExp1.pth
+**/venv/
+.venv
+**/trash/
+.kiro
+**/dataset/
+**/embeddings/
+.pytest_cache
+.github
+__pycache__
+.hypothesis
+**/config/
+**/pycache/
